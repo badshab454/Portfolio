@@ -19,3 +19,15 @@ body {
 .navbar-brand {
   color: #000;
 }
+section {
+  padding: 5rem 0;
+}
+.red {
+  color: red;
+}
+.hero img {
+  border-radius: 50%;
+}
+.hero-content {
+  padding-top: 150px;
+}
